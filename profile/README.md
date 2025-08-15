@@ -15,11 +15,11 @@ To connect developers, designers, and creators worldwide in building high-qualit
    - LinkedIn: [Connect Here](YOUR_LINKEDIN_LINK)
 
 2. **Read Our Guidelines**  
-   - [Code of Conduct](CODE_OF_CONDUCT.md)
-   - [Contribution Guide](CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/ContribHQ-Community/Welcome/blob/main/CODE_OF_CONDUCT.md)
+   - [Contribution Guide]([CONTRIBUTING.md](https://github.com/ContribHQ-Community/Welcome/blob/main/CONTRIBUTING.md))
 
 3. **Pick a Project**  
-   - Browse our [Projects Repository](https://github.com/ContribHQ/projects)
+   - Browse our [Projects Repository](https://github.com/ContribHQ-Community/Projects/blob/main/README.md)
    - Look for issues tagged with `good first issue`.
 
 ## 📅 Community Events
